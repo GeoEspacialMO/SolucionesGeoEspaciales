@@ -1,0 +1,19 @@
+.cover {
+  height: 500px;
+  background-image: url(https://cdn.glitch.global/19bb9558-7418-407a-9dc1-1fe0bfab70f5/jason-blackeye-XYrjl3j7smo-unsplash.jpg?v=1706729965510);
+  color: white;
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.4);
+  background-blend-mode: darken;
+}
+
+.cover-small {
+  height:180px;
+  background-blend-mode:normal;
+}
+
+.card {
+  border: 0 !important;
+  box-shadow: 0 4px 6px -1px rgba(0,0,0,0.2), 0 2px 4px -1px rgba(0,0,0,0.2);
+}
